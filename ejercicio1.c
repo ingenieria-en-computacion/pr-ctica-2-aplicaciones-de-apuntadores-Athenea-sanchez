@@ -6,7 +6,7 @@ int main () {
   d = 'z';
   e = '\t';
   
-  //Escrib el código para imprimir las direcciones de a, b y c
+  //Escrib el código para imprimir las direcciones de a, b y c, ud
 
   ap = &c;
   // imprime el carácter de la localidad a la que apunta
